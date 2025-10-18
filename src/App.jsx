@@ -4,18 +4,12 @@ import viteLogo from '/vite.svg'
 import './App.css'
 
 function App() {
-
-
   return (
-    <>
-      <div>
-       
-      
-      </div>
-      
-      
-    </>
-  )
+    <div className="text-center p-4">
+      <h1 className="text-3xl font-bold">¡Hola, Booky-Web!</h1>
+    </div>
+  );
 }
 
-export default App
+export default App;
+
